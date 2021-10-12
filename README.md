@@ -2,7 +2,7 @@
 # About the project
 This is a random quote machine for FreeCodeCamp's Front end libraries certification.
 
-(http://localhost:3000) [Click here to check a demo]
+[Click here to check a demo](http://localhost:3000)
 
 # Getting Started with Create React App
 
